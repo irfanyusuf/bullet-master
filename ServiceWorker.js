@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-bullet-master-0.1";
 const contentToCache = [
     "Build/build_bullet_master.loader.js",
-    "Build/build_bullet_master.framework.js.gz",
-    "Build/build_bullet_master.data.gz",
-    "Build/build_bullet_master.wasm.gz",
+    "Build/build_bullet_master.framework.js.br",
+    "Build/build_bullet_master.data.br",
+    "Build/build_bullet_master.wasm.br",
     "TemplateData/style.css"
 
 ];
